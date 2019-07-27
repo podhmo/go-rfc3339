@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/podhmo/go-rfc3339.svg?style=svg)](https://circleci.com/gh/podhmo/go-rfc3339)
+
 # rfc3339
 
 we always use rfc3339 only, using time.Parse()
